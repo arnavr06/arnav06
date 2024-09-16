@@ -1,5 +1,6 @@
-### Hi I'm Arnav!
+# Hi, I'm Arnav
 
+### Currently studying BSc Digital and Technology Solutions (Software Engineering)
 
 
 
